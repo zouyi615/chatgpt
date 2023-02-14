@@ -28,3 +28,4 @@ okx 注册链接: https://www.cnouyi.care/join/4784938
 6. 关于 ChatGPT Plus 体验
 数据和智能化目前感觉和免费版没有区别, 主要区别就是再也没有 pending 和 to much request 了, 丝滑流畅. 当然回答还是一个字一个字的往外出. 回到了 ChatGPT 刚出来时候的体验.
 每个月不到 150 块钱, 虽然真不便宜, 但是能拥有一个高效的信息获取渠道, 也不亏. 本人同时在用 Notion AI 和 GitHub Copilot, 不得不说这些 AI 对 coding 的效率提升都很高
+
